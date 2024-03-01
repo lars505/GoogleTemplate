@@ -8,8 +8,16 @@
 }
 .formulario{
     background-color: brown;
-    height: 100vh;
+    height: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.logo {
+    text-align: center; 
+}
+
+.logo img {
+    display: block; 
+    margin: 0 auto; 
 }
